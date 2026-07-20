@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/banner.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Hafsa%20Mahek&fontSize=50&fontColor=00FF99&animation=fadeIn&fontAlignY=38&desc=DFIR%20•%20Cyber%20Threat%20Intelligence%20•%20Blue%20Team&descAlignY=58"/>
 </p>
 <div align="center">
 
