@@ -1,4 +1,8 @@
 # Hi there, I'm Hafsa Mahek 👋
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Professional-red?style=for-the-badge)
+![Blue Team](https://img.shields.io/badge/Blue-Team-blue?style=for-the-badge)
+![DFIR](https://img.shields.io/badge/DFIR-orange?style=for-the-badge)
+![SOC](https://img.shields.io/badge/SOC-Analyst-success?style=for-the-badge)
 
 ### BS Cybersecurity Student | DFIR Intern | Blue Team & Cyber Threat Intelligence Enthusiast
 
