@@ -1,9 +1,18 @@
 # Hi there, I'm Hafsa Mahek 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Blue+Team+Enthusiast;DFIR+Intern;SOC+%7C+Threat+Intelligence;Always+Learning+Something+New)](https://git.io/typing-svg)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Professional-red?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+![Wazuh](https://img.shields.io/badge/Wazuh-005BBB?style=for-the-badge)
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge)
+
 ![Blue Team](https://img.shields.io/badge/Blue-Team-blue?style=for-the-badge)
+
 ![DFIR](https://img.shields.io/badge/DFIR-orange?style=for-the-badge)
-![SOC](https://img.shields.io/badge/SOC-Analyst-success?style=for-the-badge)
 ![](https://komarev.com/ghpvc/?username=hafsa-creates&color=blue)
 ### BS Cybersecurity Student | DFIR Intern | Blue Team & Cyber Threat Intelligence Enthusiast
 
