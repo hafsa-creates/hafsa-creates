@@ -3,9 +3,6 @@
 </p>
 <div align="center">
 
-# 𝑯𝒂𝒇𝒔𝒂 𝑴𝒂𝒉𝒆𝒌
-
-### 𝘿𝙁𝙄𝙍 • 𝘾𝙮𝙗𝙚𝙧 𝙏𝙝𝙧𝙚𝙖𝙩 𝙄𝙣𝙩𝙚𝙡𝙡𝙞𝙜𝙚𝙣𝙘𝙚 • 𝘽𝙡𝙪𝙚 𝙏𝙚𝙖𝙢 • 𝙎𝙊𝘾
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=900&color=00FF99&center=true&vCenter=true&width=900&lines=Digital+Forensics+%26+Incident+Response;Cyber+Threat+Intelligence;Blue+Team+Operations;Detection+Engineering;SIEM+%7C+Threat+Hunting;Always+Building.+Always+Learning."/>
 
