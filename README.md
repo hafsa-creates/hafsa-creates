@@ -115,6 +115,11 @@ Currently pursuing practical cybersecurity training through hands-on labs, TryHa
 💼 LinkedIn: **linkedin.com/in/hafsa-mahek**
 
 📍 Multan, Pakistan
+## 📊 GitHub Statistics
+
+![Hafsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafsa-creates&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa-creates&layout=compact&theme=tokyonight)
 
 ---
 
