@@ -3,7 +3,7 @@
 ![Blue Team](https://img.shields.io/badge/Blue-Team-blue?style=for-the-badge)
 ![DFIR](https://img.shields.io/badge/DFIR-orange?style=for-the-badge)
 ![SOC](https://img.shields.io/badge/SOC-Analyst-success?style=for-the-badge)
-
+![](https://komarev.com/ghpvc/?username=hafsa-creates&color=blue)
 ### BS Cybersecurity Student | DFIR Intern | Blue Team & Cyber Threat Intelligence Enthusiast
 
 I'm a 4th-semester BS Cybersecurity student at Air University (GPA: **3.72/4.00**) currently working as a **Digital Forensics & Incident Response (DFIR) Intern** at the National Cyber Crime Investigation Agency (NCCIA). I enjoy building practical cybersecurity labs focused on SOC operations, cyber threat intelligence, detection engineering, and network defense.
