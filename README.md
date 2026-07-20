@@ -1,4 +1,5 @@
 # Hi there, I'm Hafsa Mahek 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Blue+Team+Enthusiast;DFIR+Intern;SOC+%7C+Threat+Intelligence;Always+Learning+Something+New)](https://git.io/typing-svg)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Professional-red?style=for-the-badge)
 ![Blue Team](https://img.shields.io/badge/Blue-Team-blue?style=for-the-badge)
 ![DFIR](https://img.shields.io/badge/DFIR-orange?style=for-the-badge)
