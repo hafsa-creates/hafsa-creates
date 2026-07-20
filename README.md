@@ -1,4 +1,4 @@
-# Hi there, I'm Hafsa Mahek 👋
+# Hi there, I'm Hafsa Mahek 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Professional-red?style=for-the-badge)
 ![Blue Team](https://img.shields.io/badge/Blue-Team-blue?style=for-the-badge)
 ![DFIR](https://img.shields.io/badge/DFIR-orange?style=for-the-badge)
@@ -21,7 +21,11 @@ I'm a 4th-semester BS Cybersecurity student at Air University (GPA: **3.72/4.00*
 ---
 
 ## 🛠 Technical Skills
+## 💻 Technologies & Tools
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,bash,cpp,linux,git,github,vscode"/>
+</p>
 ### SIEM & Detection
 
 * Splunk
